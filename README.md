@@ -1,0 +1,2 @@
+# diogenesjunior
+Readme básico
